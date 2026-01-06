@@ -17,3 +17,4 @@
 # fix: handle high score save race condition
 # feat: add volume slider to settings
 # fix: handle high score save race condition
+# fix: handle null pointer in score display
