@@ -54,3 +54,4 @@
 # feat: add pause menu overlay
 # chore: update Gradle to 8.5
 # chore: update Gradle to 8.5
+# fix: resolve memory leak in particle system
