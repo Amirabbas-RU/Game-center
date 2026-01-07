@@ -55,3 +55,4 @@
 # chore: update Gradle to 8.5
 # chore: update Gradle to 8.5
 # fix: resolve memory leak in particle system
+# fix: handle back button in landscape mode
