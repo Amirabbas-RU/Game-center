@@ -52,3 +52,4 @@
 # chore: remove unused assets from bundle
 # fix: incorrect position calculation on resize
 # feat: add pause menu overlay
+# chore: update Gradle to 8.5
