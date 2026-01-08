@@ -2,3 +2,4 @@
 # feat: add pause menu overlay
 # fix: handle back button in landscape mode
 # fix: incorrect position calculation on resize
+# feat: add volume slider to settings
