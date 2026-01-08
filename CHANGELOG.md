@@ -3,3 +3,4 @@
 # fix: handle back button in landscape mode
 # fix: incorrect position calculation on resize
 # feat: add volume slider to settings
+# fix: handle back button in landscape mode
