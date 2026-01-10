@@ -61,3 +61,4 @@
 # fix: restore game state after crash
 # feat: add pause menu overlay
 # feat: add volume slider to settings
+# refactor: move UI components to separate package
