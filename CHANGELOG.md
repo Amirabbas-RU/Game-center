@@ -60,3 +60,4 @@
 # refactor: extract input handler from GameEngine
 # fix: restore game state after crash
 # feat: add pause menu overlay
+# feat: add volume slider to settings
