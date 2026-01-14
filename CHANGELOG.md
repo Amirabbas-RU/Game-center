@@ -6,3 +6,4 @@
 # fix: handle back button in landscape mode
 # fix: handle screen timeout during gameplay
 # chore: update Gradle to 8.5
+# Fix: sound effect volume reset on scene change
