@@ -15,3 +15,4 @@
 # fix: background music pause on incoming call
 # refactor: decouple renderer from game loop
 # fix: handle high score save race condition
+# feat: add volume slider to settings
