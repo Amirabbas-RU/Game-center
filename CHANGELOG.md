@@ -12,3 +12,6 @@
 # feat: add pause menu overlay
 # fix: detect screen size on device rotation
 # fix: handle back button in landscape mode
+# fix: background music pause on incoming call
+# refactor: decouple renderer from game loop
+# fix: handle high score save race condition
