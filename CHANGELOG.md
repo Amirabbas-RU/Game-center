@@ -28,3 +28,6 @@
 # fix: restore game state after crash
 # refactor: move UI components to separate package
 # fix: incorrect position calculation on resize
+# refactor: simplify animation engine
+# chore: remove unused assets from bundle
+# refactor: simplify animation engine
