@@ -31,3 +31,4 @@
 # refactor: simplify animation engine
 # chore: remove unused assets from bundle
 # refactor: simplify animation engine
+# fix: handle screen timeout during gameplay
