@@ -10,3 +10,4 @@
 # fix: restore game state after crash
 # refactor: decouple renderer from game loop
 # feat: add pause menu overlay
+# fix: detect screen size on device rotation
