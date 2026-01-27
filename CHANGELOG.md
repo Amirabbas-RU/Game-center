@@ -11,3 +11,4 @@
 # refactor: decouple renderer from game loop
 # feat: add pause menu overlay
 # fix: detect screen size on device rotation
+# fix: handle back button in landscape mode
