@@ -65,3 +65,4 @@
 # chore: update Gradle to 8.5
 # refactor: move UI components to separate package
 # fix: handle null pointer in score display
+# fix: handle screen timeout during gameplay
