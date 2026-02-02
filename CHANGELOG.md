@@ -64,3 +64,4 @@
 # refactor: move UI components to separate package
 # chore: update Gradle to 8.5
 # refactor: move UI components to separate package
+# fix: handle null pointer in score display
