@@ -67,3 +67,4 @@
 # fix: handle null pointer in score display
 # fix: handle screen timeout during gameplay
 # feat: add settings persistence
+# refactor: move UI components to separate package
