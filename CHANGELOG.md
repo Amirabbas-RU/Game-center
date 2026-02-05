@@ -39,3 +39,4 @@
 # feat: add settings persistence
 # fix: handle edge case in collision detection
 # fix: handle edge case in collision detection
+# feat: add haptic feedback on button press
