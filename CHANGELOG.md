@@ -37,3 +37,4 @@
 # fix: background music pause on incoming call
 # fix: handle back button in landscape mode
 # feat: add settings persistence
+# fix: handle edge case in collision detection
