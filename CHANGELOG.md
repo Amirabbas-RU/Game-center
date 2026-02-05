@@ -32,3 +32,8 @@
 # chore: remove unused assets from bundle
 # refactor: simplify animation engine
 # fix: handle screen timeout during gameplay
+# refactor: extract audio manager from GameScene
+# refactor: simplify animation engine
+# fix: background music pause on incoming call
+# fix: handle back button in landscape mode
+# feat: add settings persistence
