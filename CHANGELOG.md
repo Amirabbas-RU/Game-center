@@ -23,3 +23,4 @@
 # fix: incorrect position calculation on resize
 # fix: handle edge case in collision detection
 # feat: add pause menu overlay
+# feat: add volume slider to settings
