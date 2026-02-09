@@ -22,3 +22,4 @@
 # fix: background music pause on incoming call
 # fix: incorrect position calculation on resize
 # fix: handle edge case in collision detection
+# feat: add pause menu overlay
