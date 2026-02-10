@@ -74,3 +74,4 @@
 # refactor: decouple renderer from game loop
 # chore: add proguard rules for release
 # fix: handle screen timeout during gameplay
+# refactor: extract input handler from GameEngine
