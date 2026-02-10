@@ -75,3 +75,4 @@
 # chore: add proguard rules for release
 # fix: handle screen timeout during gameplay
 # refactor: extract input handler from GameEngine
+# feat: add achievement notifications
