@@ -73,3 +73,4 @@
 # feat: add settings persistence
 # refactor: decouple renderer from game loop
 # chore: add proguard rules for release
+# fix: handle screen timeout during gameplay
