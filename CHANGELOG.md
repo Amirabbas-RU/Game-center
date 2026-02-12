@@ -48,3 +48,4 @@
 # fix: prevent double tap on menu buttons
 # refactor: simplify animation engine
 # fix: resolve memory leak in particle system
+# refactor: decouple renderer from game loop
