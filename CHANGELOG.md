@@ -51,3 +51,4 @@
 # refactor: decouple renderer from game loop
 # chore: remove unused assets from bundle
 # fix: incorrect position calculation on resize
+# feat: add pause menu overlay
