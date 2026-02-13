@@ -43,3 +43,4 @@
 # Fix: sound effect volume reset on scene change
 # fix: background music pause on incoming call
 # fix: handle high score save race condition
+# fix: incorrect position calculation on resize
