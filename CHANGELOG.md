@@ -41,3 +41,4 @@
 # fix: handle edge case in collision detection
 # feat: add haptic feedback on button press
 # Fix: sound effect volume reset on scene change
+# fix: background music pause on incoming call
