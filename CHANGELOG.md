@@ -18,3 +18,6 @@
 # feat: add volume slider to settings
 # fix: handle high score save race condition
 # fix: handle null pointer in score display
+# chore: add proguard rules for release
+# fix: background music pause on incoming call
+# fix: incorrect position calculation on resize
