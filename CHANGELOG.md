@@ -69,3 +69,4 @@
 # feat: add settings persistence
 # refactor: move UI components to separate package
 # refactor: move UI components to separate package
+# fix: resolve memory leak in particle system
