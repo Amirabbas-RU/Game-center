@@ -47,3 +47,4 @@
 # fix: prevent double tap on menu buttons
 # fix: prevent double tap on menu buttons
 # refactor: simplify animation engine
+# fix: resolve memory leak in particle system
