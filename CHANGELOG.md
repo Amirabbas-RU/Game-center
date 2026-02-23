@@ -46,3 +46,4 @@
 # fix: incorrect position calculation on resize
 # fix: prevent double tap on menu buttons
 # fix: prevent double tap on menu buttons
+# refactor: simplify animation engine
