@@ -27,3 +27,4 @@
 # refactor: decouple renderer from game loop
 # fix: restore game state after crash
 # refactor: move UI components to separate package
+# fix: incorrect position calculation on resize
