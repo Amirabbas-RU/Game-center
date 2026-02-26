@@ -9,3 +9,4 @@
 # Fix: sound effect volume reset on scene change
 # fix: restore game state after crash
 # refactor: decouple renderer from game loop
+# feat: add pause menu overlay
