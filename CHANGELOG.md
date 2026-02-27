@@ -57,3 +57,4 @@
 # fix: resolve memory leak in particle system
 # fix: handle back button in landscape mode
 # refactor: extract input handler from GameEngine
+# refactor: extract input handler from GameEngine
