@@ -58,3 +58,4 @@
 # fix: handle back button in landscape mode
 # refactor: extract input handler from GameEngine
 # refactor: extract input handler from GameEngine
+# fix: restore game state after crash
